@@ -11,8 +11,8 @@ data = open('./Module/Constants/tokens.json')
 tokens = json.loads(data.read())
 
 # Connect to web3 provider
-alchemy_url = env['ALCHEMY_URL']
-web3 = Web3(Web3.HTTPProvider(alchemy_url))
+url = env['URL']
+web3 = Web3(Web3.HTTPProvider(url))
 
 # Uniswap v3 Quoter Contract
 contract_address = env['CONTRACT']
