@@ -24,4 +24,5 @@ Example Output:
 
 ## Dependencies
 
-- Web3 Provider URL
+- Web3 HTTP Provider URL
+- token.json (list of ERC-20 tokens)
