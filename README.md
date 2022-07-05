@@ -22,7 +22,7 @@ Example Output:
 
 `{'0.3%': 19280.039817, '1.0%': 19112.449151}`
 
-- Output is provided in a pool fee tier and token quote key-value pair
+Output is provided in a pool fee tier and token quote key-value pair
 
 ## Dependencies
 
