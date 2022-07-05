@@ -1,6 +1,6 @@
 # Uniswap v3 Quoter
 
-Python script to read the Uniswap v3 Quoter smart contract to aggregate quotes across all pools and fee tiers available on Uniwap v3. 
+Simple python module to read the Uniswap v3 Quoter smart contract to aggregate quotes across all pools and fee tiers available on Uniwap v3. 
 
 ## Environment Details
 
