@@ -21,3 +21,7 @@ Run the script:
 Example Output:
 
 `{'0.3%': 19280.039817, '1.0%': 19112.449151}`
+
+## Dependencies
+
+- Web3 Provider URL
