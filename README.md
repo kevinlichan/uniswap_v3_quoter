@@ -12,6 +12,7 @@ Navigate to the project directory:
 `cd Project Folder`
 
 Edit run.py to specify your input and output token (e.g. WBTC, USDC):
+
 `quote(INPUT_TOKEN_TICKER, OUTPUT_TOKEN_TICKER, INPUT_TOKEN_AMOUNT)`
 
 Run the script:
